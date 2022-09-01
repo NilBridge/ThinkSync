@@ -1,6 +1,7 @@
 # custom
 .vscode/
 pacjage-lock.json
+tmp/
 # Logs
 logs
 *.log
