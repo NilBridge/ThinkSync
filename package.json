@@ -1,0 +1,23 @@
+{
+  "name": "thinksync",
+  "version": "1.0.0",
+  "description": "sync player data",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NilBridge/ThinkSync.git"
+  },
+  "keywords": [
+    "sync",
+    "bedrock"
+  ],
+  "author": "NilDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NilBridge/ThinkSync/issues"
+  },
+  "homepage": "https://github.com/NilBridge/ThinkSync#readme"
+}
