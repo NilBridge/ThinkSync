@@ -33,6 +33,11 @@ class playerData{
             this.#data.enderchest.push({type:item.type,count:item.count,nbt:item.getNbt().toSNBT()});
         });
     }
+    getObj(){
+        this.#Bag();
+        this.#enderChest();
+        return this.#data;
+    }
 }
 
 module.exports = playerData;
